@@ -107,3 +107,22 @@ F:\NEW_LTHDT\Đồ án\Đồ án\nhom_9\obj\Debug\net6.0-windows\refint\nhom_9.d
 F:\NEW_LTHDT\Đồ án\Đồ án\nhom_9\obj\Debug\net6.0-windows\nhom_9.pdb
 F:\NEW_LTHDT\Đồ án\Đồ án\nhom_9\obj\Debug\net6.0-windows\nhom_9.genruntimeconfig.cache
 F:\NEW_LTHDT\Đồ án\Đồ án\nhom_9\obj\Debug\net6.0-windows\ref\nhom_9.dll
+C:\Users\minh2\Source\Repos\-n-nh-m-9\nhom_9\bin\Debug\net6.0-windows\nhom_9.exe
+C:\Users\minh2\Source\Repos\-n-nh-m-9\nhom_9\bin\Debug\net6.0-windows\nhom_9.deps.json
+C:\Users\minh2\Source\Repos\-n-nh-m-9\nhom_9\bin\Debug\net6.0-windows\nhom_9.runtimeconfig.json
+C:\Users\minh2\Source\Repos\-n-nh-m-9\nhom_9\bin\Debug\net6.0-windows\nhom_9.dll
+C:\Users\minh2\Source\Repos\-n-nh-m-9\nhom_9\bin\Debug\net6.0-windows\nhom_9.pdb
+C:\Users\minh2\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\nhom_9.frm_dat_lich.resources
+C:\Users\minh2\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\nhom_9.frm_dang_nhap.resources
+C:\Users\minh2\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\nhom_9.Properties.Resources.resources
+C:\Users\minh2\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\nhom_9.csproj.GenerateResource.cache
+C:\Users\minh2\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\nhom_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minh2\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\nhom_9.AssemblyInfoInputs.cache
+C:\Users\minh2\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\nhom_9.AssemblyInfo.cs
+C:\Users\minh2\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\nhom_9.csproj.CoreCompileInputs.cache
+C:\Users\minh2\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\nhom_9.sourcelink.json
+C:\Users\minh2\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\nhom_9.dll
+C:\Users\minh2\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\refint\nhom_9.dll
+C:\Users\minh2\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\nhom_9.pdb
+C:\Users\minh2\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\nhom_9.genruntimeconfig.cache
+C:\Users\minh2\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\ref\nhom_9.dll
