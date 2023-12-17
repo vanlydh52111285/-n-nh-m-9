@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nhom_9", "nhom_9\nhom_9.csproj", "{6C643DC5-BA8B-4628-A027-3D0C0DF4FED0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E96544C0-7566-4766-9ACF-76631B84791C}"
+	ProjectSection(SolutionItems) = preProject
+		nhom_9\Form1.cs = nhom_9\Form1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C643DC5-BA8B-4628-A027-3D0C0DF4FED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C643DC5-BA8B-4628-A027-3D0C0DF4FED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C643DC5-BA8B-4628-A027-3D0C0DF4FED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C643DC5-BA8B-4628-A027-3D0C0DF4FED0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52A85BD3-F1C6-4619-B59E-F5560B40FB49}
+	EndGlobalSection
+EndGlobal

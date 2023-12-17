@@ -1,0 +1,109 @@
+F:\NEW_LTHDT\nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.csproj.AssemblyReference.cache
+F:\NEW_LTHDT\nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.csproj.GenerateResource.cache
+F:\NEW_LTHDT\nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.GeneratedMSBuildEditorConfig.editorconfig
+F:\NEW_LTHDT\nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.AssemblyInfoInputs.cache
+F:\NEW_LTHDT\nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.AssemblyInfo.cs
+F:\NEW_LTHDT\nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.csproj.CoreCompileInputs.cache
+F:\NEW_LTHDT\nhom_9\nhom_9\bin\Debug\net6.0-windows\nhom_9.exe
+F:\NEW_LTHDT\nhom_9\nhom_9\bin\Debug\net6.0-windows\nhom_9.deps.json
+F:\NEW_LTHDT\nhom_9\nhom_9\bin\Debug\net6.0-windows\nhom_9.runtimeconfig.json
+F:\NEW_LTHDT\nhom_9\nhom_9\bin\Debug\net6.0-windows\nhom_9.dll
+F:\NEW_LTHDT\nhom_9\nhom_9\bin\Debug\net6.0-windows\nhom_9.pdb
+F:\NEW_LTHDT\nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.frm_dat_lich.resources
+F:\NEW_LTHDT\nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.dll
+F:\NEW_LTHDT\nhom_9\nhom_9\obj\Debug\net6.0-windows\refint\nhom_9.dll
+F:\NEW_LTHDT\nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.pdb
+F:\NEW_LTHDT\nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.genruntimeconfig.cache
+F:\NEW_LTHDT\nhom_9\nhom_9\obj\Debug\net6.0-windows\ref\nhom_9.dll
+F:\NEW_LTHDT\nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.Properties.Resources.resources
+C:\Users\minh2\Documents\Zalo Received Files\nhom_9 (1)\nhom_9\bin\Debug\net6.0-windows\nhom_9.exe
+C:\Users\minh2\Documents\Zalo Received Files\nhom_9 (1)\nhom_9\bin\Debug\net6.0-windows\nhom_9.deps.json
+C:\Users\minh2\Documents\Zalo Received Files\nhom_9 (1)\nhom_9\bin\Debug\net6.0-windows\nhom_9.runtimeconfig.json
+C:\Users\minh2\Documents\Zalo Received Files\nhom_9 (1)\nhom_9\bin\Debug\net6.0-windows\nhom_9.dll
+C:\Users\minh2\Documents\Zalo Received Files\nhom_9 (1)\nhom_9\bin\Debug\net6.0-windows\nhom_9.pdb
+C:\Users\minh2\Documents\Zalo Received Files\nhom_9 (1)\nhom_9\obj\Debug\net6.0-windows\nhom_9.frm_dat_lich.resources
+C:\Users\minh2\Documents\Zalo Received Files\nhom_9 (1)\nhom_9\obj\Debug\net6.0-windows\nhom_9.Properties.Resources.resources
+C:\Users\minh2\Documents\Zalo Received Files\nhom_9 (1)\nhom_9\obj\Debug\net6.0-windows\nhom_9.csproj.GenerateResource.cache
+C:\Users\minh2\Documents\Zalo Received Files\nhom_9 (1)\nhom_9\obj\Debug\net6.0-windows\nhom_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minh2\Documents\Zalo Received Files\nhom_9 (1)\nhom_9\obj\Debug\net6.0-windows\nhom_9.AssemblyInfoInputs.cache
+C:\Users\minh2\Documents\Zalo Received Files\nhom_9 (1)\nhom_9\obj\Debug\net6.0-windows\nhom_9.AssemblyInfo.cs
+C:\Users\minh2\Documents\Zalo Received Files\nhom_9 (1)\nhom_9\obj\Debug\net6.0-windows\nhom_9.csproj.CoreCompileInputs.cache
+C:\Users\minh2\Documents\Zalo Received Files\nhom_9 (1)\nhom_9\obj\Debug\net6.0-windows\nhom_9.dll
+C:\Users\minh2\Documents\Zalo Received Files\nhom_9 (1)\nhom_9\obj\Debug\net6.0-windows\refint\nhom_9.dll
+C:\Users\minh2\Documents\Zalo Received Files\nhom_9 (1)\nhom_9\obj\Debug\net6.0-windows\nhom_9.pdb
+C:\Users\minh2\Documents\Zalo Received Files\nhom_9 (1)\nhom_9\obj\Debug\net6.0-windows\nhom_9.genruntimeconfig.cache
+C:\Users\minh2\Documents\Zalo Received Files\nhom_9 (1)\nhom_9\obj\Debug\net6.0-windows\ref\nhom_9.dll
+F:\NEW_LTHDT\Đồ án\Nhom_9\nhom_9\bin\Debug\net6.0-windows\nhom_9.exe
+F:\NEW_LTHDT\Đồ án\Nhom_9\nhom_9\bin\Debug\net6.0-windows\nhom_9.deps.json
+F:\NEW_LTHDT\Đồ án\Nhom_9\nhom_9\bin\Debug\net6.0-windows\nhom_9.runtimeconfig.json
+F:\NEW_LTHDT\Đồ án\Nhom_9\nhom_9\bin\Debug\net6.0-windows\nhom_9.dll
+F:\NEW_LTHDT\Đồ án\Nhom_9\nhom_9\bin\Debug\net6.0-windows\nhom_9.pdb
+F:\NEW_LTHDT\Đồ án\Nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.csproj.AssemblyReference.cache
+F:\NEW_LTHDT\Đồ án\Nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.frm_dat_lich.resources
+F:\NEW_LTHDT\Đồ án\Nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.Properties.Resources.resources
+F:\NEW_LTHDT\Đồ án\Nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.csproj.GenerateResource.cache
+F:\NEW_LTHDT\Đồ án\Nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.GeneratedMSBuildEditorConfig.editorconfig
+F:\NEW_LTHDT\Đồ án\Nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.AssemblyInfoInputs.cache
+F:\NEW_LTHDT\Đồ án\Nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.AssemblyInfo.cs
+F:\NEW_LTHDT\Đồ án\Nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.csproj.CoreCompileInputs.cache
+F:\NEW_LTHDT\Đồ án\Nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.dll
+F:\NEW_LTHDT\Đồ án\Nhom_9\nhom_9\obj\Debug\net6.0-windows\refint\nhom_9.dll
+F:\NEW_LTHDT\Đồ án\Nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.pdb
+F:\NEW_LTHDT\Đồ án\Nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.genruntimeconfig.cache
+F:\NEW_LTHDT\Đồ án\Nhom_9\nhom_9\obj\Debug\net6.0-windows\ref\nhom_9.dll
+C:\Users\Nam\Source\Repos\Nhom_9\nhom_9\bin\Debug\net6.0-windows\nhom_9.exe
+C:\Users\Nam\Source\Repos\Nhom_9\nhom_9\bin\Debug\net6.0-windows\nhom_9.deps.json
+C:\Users\Nam\Source\Repos\Nhom_9\nhom_9\bin\Debug\net6.0-windows\nhom_9.runtimeconfig.json
+C:\Users\Nam\Source\Repos\Nhom_9\nhom_9\bin\Debug\net6.0-windows\nhom_9.dll
+C:\Users\Nam\Source\Repos\Nhom_9\nhom_9\bin\Debug\net6.0-windows\nhom_9.pdb
+C:\Users\Nam\Source\Repos\Nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.frm_dat_lich.resources
+C:\Users\Nam\Source\Repos\Nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.frm_dang_nhap.resources
+C:\Users\Nam\Source\Repos\Nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.Properties.Resources.resources
+C:\Users\Nam\Source\Repos\Nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.csproj.GenerateResource.cache
+C:\Users\Nam\Source\Repos\Nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nam\Source\Repos\Nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.AssemblyInfoInputs.cache
+C:\Users\Nam\Source\Repos\Nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.AssemblyInfo.cs
+C:\Users\Nam\Source\Repos\Nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.csproj.CoreCompileInputs.cache
+C:\Users\Nam\Source\Repos\Nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.dll
+C:\Users\Nam\Source\Repos\Nhom_9\nhom_9\obj\Debug\net6.0-windows\refint\nhom_9.dll
+C:\Users\Nam\Source\Repos\Nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.pdb
+C:\Users\Nam\Source\Repos\Nhom_9\nhom_9\obj\Debug\net6.0-windows\nhom_9.genruntimeconfig.cache
+C:\Users\Nam\Source\Repos\Nhom_9\nhom_9\obj\Debug\net6.0-windows\ref\nhom_9.dll
+F:\NEW_LTHDT\Đồ án\capnhat\nhom_9\bin\Debug\net6.0-windows\nhom_9.exe
+F:\NEW_LTHDT\Đồ án\capnhat\nhom_9\bin\Debug\net6.0-windows\nhom_9.deps.json
+F:\NEW_LTHDT\Đồ án\capnhat\nhom_9\bin\Debug\net6.0-windows\nhom_9.runtimeconfig.json
+F:\NEW_LTHDT\Đồ án\capnhat\nhom_9\bin\Debug\net6.0-windows\nhom_9.dll
+F:\NEW_LTHDT\Đồ án\capnhat\nhom_9\bin\Debug\net6.0-windows\nhom_9.pdb
+F:\NEW_LTHDT\Đồ án\capnhat\nhom_9\obj\Debug\net6.0-windows\nhom_9.csproj.AssemblyReference.cache
+F:\NEW_LTHDT\Đồ án\capnhat\nhom_9\obj\Debug\net6.0-windows\nhom_9.frm_dat_lich.resources
+F:\NEW_LTHDT\Đồ án\capnhat\nhom_9\obj\Debug\net6.0-windows\nhom_9.frm_dang_nhap.resources
+F:\NEW_LTHDT\Đồ án\capnhat\nhom_9\obj\Debug\net6.0-windows\nhom_9.Properties.Resources.resources
+F:\NEW_LTHDT\Đồ án\capnhat\nhom_9\obj\Debug\net6.0-windows\nhom_9.csproj.GenerateResource.cache
+F:\NEW_LTHDT\Đồ án\capnhat\nhom_9\obj\Debug\net6.0-windows\nhom_9.GeneratedMSBuildEditorConfig.editorconfig
+F:\NEW_LTHDT\Đồ án\capnhat\nhom_9\obj\Debug\net6.0-windows\nhom_9.AssemblyInfoInputs.cache
+F:\NEW_LTHDT\Đồ án\capnhat\nhom_9\obj\Debug\net6.0-windows\nhom_9.AssemblyInfo.cs
+F:\NEW_LTHDT\Đồ án\capnhat\nhom_9\obj\Debug\net6.0-windows\nhom_9.csproj.CoreCompileInputs.cache
+F:\NEW_LTHDT\Đồ án\capnhat\nhom_9\obj\Debug\net6.0-windows\nhom_9.dll
+F:\NEW_LTHDT\Đồ án\capnhat\nhom_9\obj\Debug\net6.0-windows\refint\nhom_9.dll
+F:\NEW_LTHDT\Đồ án\capnhat\nhom_9\obj\Debug\net6.0-windows\nhom_9.pdb
+F:\NEW_LTHDT\Đồ án\capnhat\nhom_9\obj\Debug\net6.0-windows\nhom_9.genruntimeconfig.cache
+F:\NEW_LTHDT\Đồ án\capnhat\nhom_9\obj\Debug\net6.0-windows\ref\nhom_9.dll
+F:\NEW_LTHDT\Đồ án\Đồ án\nhom_9\bin\Debug\net6.0-windows\nhom_9.exe
+F:\NEW_LTHDT\Đồ án\Đồ án\nhom_9\bin\Debug\net6.0-windows\nhom_9.deps.json
+F:\NEW_LTHDT\Đồ án\Đồ án\nhom_9\bin\Debug\net6.0-windows\nhom_9.runtimeconfig.json
+F:\NEW_LTHDT\Đồ án\Đồ án\nhom_9\bin\Debug\net6.0-windows\nhom_9.dll
+F:\NEW_LTHDT\Đồ án\Đồ án\nhom_9\bin\Debug\net6.0-windows\nhom_9.pdb
+F:\NEW_LTHDT\Đồ án\Đồ án\nhom_9\obj\Debug\net6.0-windows\nhom_9.csproj.AssemblyReference.cache
+F:\NEW_LTHDT\Đồ án\Đồ án\nhom_9\obj\Debug\net6.0-windows\nhom_9.frm_dat_lich.resources
+F:\NEW_LTHDT\Đồ án\Đồ án\nhom_9\obj\Debug\net6.0-windows\nhom_9.frm_dang_nhap.resources
+F:\NEW_LTHDT\Đồ án\Đồ án\nhom_9\obj\Debug\net6.0-windows\nhom_9.Properties.Resources.resources
+F:\NEW_LTHDT\Đồ án\Đồ án\nhom_9\obj\Debug\net6.0-windows\nhom_9.csproj.GenerateResource.cache
+F:\NEW_LTHDT\Đồ án\Đồ án\nhom_9\obj\Debug\net6.0-windows\nhom_9.GeneratedMSBuildEditorConfig.editorconfig
+F:\NEW_LTHDT\Đồ án\Đồ án\nhom_9\obj\Debug\net6.0-windows\nhom_9.AssemblyInfoInputs.cache
+F:\NEW_LTHDT\Đồ án\Đồ án\nhom_9\obj\Debug\net6.0-windows\nhom_9.AssemblyInfo.cs
+F:\NEW_LTHDT\Đồ án\Đồ án\nhom_9\obj\Debug\net6.0-windows\nhom_9.csproj.CoreCompileInputs.cache
+F:\NEW_LTHDT\Đồ án\Đồ án\nhom_9\obj\Debug\net6.0-windows\nhom_9.dll
+F:\NEW_LTHDT\Đồ án\Đồ án\nhom_9\obj\Debug\net6.0-windows\refint\nhom_9.dll
+F:\NEW_LTHDT\Đồ án\Đồ án\nhom_9\obj\Debug\net6.0-windows\nhom_9.pdb
+F:\NEW_LTHDT\Đồ án\Đồ án\nhom_9\obj\Debug\net6.0-windows\nhom_9.genruntimeconfig.cache
+F:\NEW_LTHDT\Đồ án\Đồ án\nhom_9\obj\Debug\net6.0-windows\ref\nhom_9.dll
