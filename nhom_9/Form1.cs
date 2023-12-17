@@ -20,9 +20,8 @@ namespace nhom_9
         public frm_dat_lich()
         {
             InitializeComponent();
-
             dgv_danhsach.CellDoubleClick += dgv_danhsach_CellDoubleClick;
-
+            ThietLapThognBao();
         }
 
         private void frm_dat_lich_Load(object sender, EventArgs e)
@@ -151,7 +150,7 @@ namespace nhom_9
                 HienThiChiTiet(lich);
             }
         }
-        private void button2_Click(object sender, EventArgs e)
+        private void btn_sua_Click(object sender, EventArgs e)
         {
             DataGridViewSelectedRowCollection selectedRows = dgv_danhsach.SelectedRows;
 
@@ -272,6 +271,28 @@ namespace nhom_9
         private void frm_dat_lich_Load_1(object sender, EventArgs e)
         {
 
+        }
+        public void ThietLapThognBao()
+        {
+            ThongBao _thongBao = new ThongBao();
+            //DateTime duetime = new DateTime(2023, 12, 10, 19, 6, 0);
+            //.setTask(duetime);
+             if (dsdatlich != null && dsdatlich.danhSachDatLich != null)
+             {
+                 foreach (DatLich d in dsdatlich.danhSachDatLich)
+                 {
+                    DateTime ngay = Convert.ToDateTime(d.thoigian);
+                    MessageBox.Show(ngay.ToString());
+
+
+                    /* double interval = (d.thoigian - DateTime.Now).TotalMilliseconds;
+                     if (interval >= 0)
+                     {
+                         _thongBao.setTask(d.thoigian);
+                     }*/
+                 }
+            }
+            
         }
     }
 }
