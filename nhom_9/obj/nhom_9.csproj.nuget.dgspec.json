@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VAN LY\\Source\\Repos\\-n-nh-m-9\\nhom_9\\nhom_9.csproj": {}
+    "C:\\Users\\VAN LY\\source\\repos\\-n-nh-m-9\\nhom_9\\nhom_9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VAN LY\\Source\\Repos\\-n-nh-m-9\\nhom_9\\nhom_9.csproj": {
+    "C:\\Users\\VAN LY\\source\\repos\\-n-nh-m-9\\nhom_9\\nhom_9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VAN LY\\Source\\Repos\\-n-nh-m-9\\nhom_9\\nhom_9.csproj",
+        "projectUniqueName": "C:\\Users\\VAN LY\\source\\repos\\-n-nh-m-9\\nhom_9\\nhom_9.csproj",
         "projectName": "nhom_9",
-        "projectPath": "C:\\Users\\VAN LY\\Source\\Repos\\-n-nh-m-9\\nhom_9\\nhom_9.csproj",
+        "projectPath": "C:\\Users\\VAN LY\\source\\repos\\-n-nh-m-9\\nhom_9\\nhom_9.csproj",
         "packagesPath": "C:\\Users\\VAN LY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VAN LY\\Source\\Repos\\-n-nh-m-9\\nhom_9\\obj\\",
+        "outputPath": "C:\\Users\\VAN LY\\source\\repos\\-n-nh-m-9\\nhom_9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VAN LY\\AppData\\Roaming\\NuGet\\NuGet.Config",
