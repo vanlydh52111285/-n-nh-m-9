@@ -66,6 +66,28 @@ namespace nhom_9
 
                 hienthidanhsachdatlich(dgv_danhsach, dsdatlich.danhSachDatLich);
             }
+            //thong bao //
+            int solich = dsdatlich.danhSachDatLich.Count;
+            if (dgv_danhsach != null)
+            {
+                ThongBao _thongBao = new ThongBao();
+                for (int i = 0; i < solich; i++)
+                {
+
+
+                    DatLich d = dsdatlich.danhSachDatLich[i];
+                    DateTime.TryParse(d.thoigian.ToString(), out DateTime time);
+
+                    TimeSpan tinh = Convert.ToDateTime(time).Subtract(DateTime.Now);
+                    int phuttoido = tinh.Minutes;
+                    if (phuttoido >= 1)
+                    {
+                        _thongBao.setTask(time, dl.tieude);
+                    }
+
+                }
+            }
+
         }
         private void hienthidanhsachdatlich(DataGridView dgv, List<DatLich> ds)
         {
