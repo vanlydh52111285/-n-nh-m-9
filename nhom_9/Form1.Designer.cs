@@ -253,6 +253,7 @@
             btn_timkiem.TabIndex = 3;
             btn_timkiem.Text = "SREACH";
             btn_timkiem.UseVisualStyleBackColor = true;
+            btn_timkiem.Click += txt_timkiem_TextChanged;
             // 
             // label3
             // 
@@ -269,6 +270,7 @@
             txt_timkiem.Name = "txt_timkiem";
             txt_timkiem.Size = new Size(475, 27);
             txt_timkiem.TabIndex = 1;
+            txt_timkiem.Click += btn_timkiem_Click;
             // 
             // dgv_danhsach
             // 

@@ -37,17 +37,18 @@ namespace nhom_9
             for (int i = 0; i < tam.Length; i++)
             {
                 string line = tam[i];
-                string[] tam2 = line.Split("\t".ToArray(), StringSplitOptions.RemoveEmptyEntries);
+                string[] tam2 = line.Split("\t".ToArray(), StringSplitOptions.None);
                 DatLich datLich = new DatLich();
                 datLich.id = tam2[0];
                 datLich.tieude = tam2[1];
                 datLich.noidung = tam2[2];
-                datLich.thoigian = Convert.ToDateTime(tam2[3]);
+                DateTime.TryParse(tam2[3], out DateTime parsedDate);
+                datLich.thoigian = parsedDate;
+                datLich.trangthai = tam2[4];
                 datLich.trangthai = tam2[4];
                 dl = new DatLich(datLich.id, datLich.tieude, datLich.noidung, datLich.thoigian, datLich.trangthai);
                 dsdatlich.AddDanhSachDatLich(dl);
             }
-
             hienthidanhsachdatlich(dgv_danhsach, dsdatlich.danhSachDatLich);
 
             //Trạng thái công việc 
@@ -56,6 +57,15 @@ namespace nhom_9
             //Cố định form
             splitContainer1.IsSplitterFixed = true;
             splitContainer2.IsSplitterFixed = true;
+            {
+                // Thực hiện sắp xếp danh sách theo ngày từ trước đến sau và thời gian theo 24 giờ
+                dsdatlich.danhSachDatLich = dsdatlich.danhSachDatLich
+                    .OrderBy(d => d.thoigian.Date) // Sắp xếp theo ngày trước đến sau
+                    .ThenBy(d => d.thoigian.TimeOfDay) // Sau đó sắp xếp theo thời gian
+                    .ToList();
+
+                hienthidanhsachdatlich(dgv_danhsach, dsdatlich.danhSachDatLich);
+            }
         }
         private void hienthidanhsachdatlich(DataGridView dgv, List<DatLich> ds)
         {
@@ -163,7 +173,7 @@ namespace nhom_9
                 DatLich lichCanSua = dsdatlich.TimTheoID(id);
                 if (lichCanSua != null)
                 {
-                    
+
                     string trangthai;
                     if (chk_hoanthanh.Checked)
                     {
@@ -176,7 +186,7 @@ namespace nhom_9
                     lichCanSua.SuaDanhSachDatLich(txt_tieude.Text, txt_noidung.Text, Convert.ToDateTime(dtp_thoigian.Text), trangthai);
                     LuuDanhSachDatLichToFile();
                     hienthidanhsachdatlich(dgv_danhsach, dsdatlich.danhSachDatLich);
-                    
+
                 }
             }
         }
@@ -277,10 +287,10 @@ namespace nhom_9
             ThongBao _thongBao = new ThongBao();
             //DateTime duetime = new DateTime(2023, 12, 10, 19, 6, 0);
             //.setTask(duetime);
-             if (dsdatlich != null && dsdatlich.danhSachDatLich != null)
-             {
-                 foreach (DatLich d in dsdatlich.danhSachDatLich)
-                 {
+            if (dsdatlich != null && dsdatlich.danhSachDatLich != null)
+            {
+                foreach (DatLich d in dsdatlich.danhSachDatLich)
+                {
                     DateTime ngay = Convert.ToDateTime(d.thoigian);
                     MessageBox.Show(ngay.ToString());
 
@@ -290,9 +300,27 @@ namespace nhom_9
                      {
                          _thongBao.setTask(d.thoigian);
                      }*/
-                 }
+                }
             }
-            
+
         }
+        private void btn_timkiem_Click(object sender, EventArgs e)
+        {
+            string searchTitle = txt_timkiem.Text;
+            List<DatLich> searchResults = dsdatlich.danhSachDatLich
+                .Where(d => d.tieude.ToLower().Contains(searchTitle.ToLower()) ||
+                            d.noidung.ToLower().Contains(searchTitle.ToLower()) ||
+                            d.thoigian.ToString("dd/MM/yyyy").Contains(searchTitle.ToLower()))
+                .ToList();
+
+            hienthidanhsachdatlich(dgv_danhsach, searchResults);
+
+        }
+
+        private void txt_timkiem_TextChanged(object sender, EventArgs e)
+        {
+            btn_timkiem_Click(sender, e);
+        }
+
     }
 }

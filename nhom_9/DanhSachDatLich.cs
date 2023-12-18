@@ -78,9 +78,25 @@ namespace nhom_9
                
             }
         }
-      
-      
-        
+
+        public void UpdateIDs()
+        {
+            for (int i = 0; i < _danhSachDatLich.Count; i++)
+            {
+                _danhSachDatLich[i].id = Guid.NewGuid().ToString();
+            }
+        }
+        // Thêm phương thức tìm kiếm vào lớp DanhSachDatLich
+
+
+
+
+        internal static object Where(Func<object, bool> value)
+        {
+            throw new NotImplementedException();
+        }
+
+
 
     }
 }
