@@ -144,3 +144,22 @@ C:\namupdate4\nhom_9\obj\Debug\net6.0-windows\refint\nhom_9.dll
 C:\namupdate4\nhom_9\obj\Debug\net6.0-windows\nhom_9.pdb
 C:\namupdate4\nhom_9\obj\Debug\net6.0-windows\nhom_9.genruntimeconfig.cache
 C:\namupdate4\nhom_9\obj\Debug\net6.0-windows\ref\nhom_9.dll
+C:\Users\VAN LY\Source\Repos\-n-nh-m-9\nhom_9\bin\Debug\net6.0-windows\nhom_9.exe
+C:\Users\VAN LY\Source\Repos\-n-nh-m-9\nhom_9\bin\Debug\net6.0-windows\nhom_9.deps.json
+C:\Users\VAN LY\Source\Repos\-n-nh-m-9\nhom_9\bin\Debug\net6.0-windows\nhom_9.runtimeconfig.json
+C:\Users\VAN LY\Source\Repos\-n-nh-m-9\nhom_9\bin\Debug\net6.0-windows\nhom_9.dll
+C:\Users\VAN LY\Source\Repos\-n-nh-m-9\nhom_9\bin\Debug\net6.0-windows\nhom_9.pdb
+C:\Users\VAN LY\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\nhom_9.csproj.AssemblyReference.cache
+C:\Users\VAN LY\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\nhom_9.frm_dat_lich.resources
+C:\Users\VAN LY\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\nhom_9.frm_dang_nhap.resources
+C:\Users\VAN LY\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\nhom_9.Properties.Resources.resources
+C:\Users\VAN LY\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\nhom_9.csproj.GenerateResource.cache
+C:\Users\VAN LY\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\nhom_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VAN LY\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\nhom_9.AssemblyInfoInputs.cache
+C:\Users\VAN LY\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\nhom_9.AssemblyInfo.cs
+C:\Users\VAN LY\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\nhom_9.csproj.CoreCompileInputs.cache
+C:\Users\VAN LY\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\nhom_9.dll
+C:\Users\VAN LY\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\refint\nhom_9.dll
+C:\Users\VAN LY\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\nhom_9.pdb
+C:\Users\VAN LY\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\nhom_9.genruntimeconfig.cache
+C:\Users\VAN LY\Source\Repos\-n-nh-m-9\nhom_9\obj\Debug\net6.0-windows\ref\nhom_9.dll
