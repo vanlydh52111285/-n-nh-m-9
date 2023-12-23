@@ -86,9 +86,17 @@ namespace nhom_9
                     }
 
                 }
+
             }
+            //điều chỉnh kích thước cột
+            this.dgv_danhsach.Columns["id"].Visible = false;
+            this.dgv_danhsach.Columns[1].Width = 190;
+            this.dgv_danhsach.Columns[2].Width = 250;
+            this.dgv_danhsach.Columns[3].Width = 200;
+            this.dgv_danhsach.Columns[4].Width = 150;
 
         }
+
         private void hienthidanhsachdatlich(DataGridView dgv, List<DatLich> ds)
         {
             dgv.DataSource = ds;
